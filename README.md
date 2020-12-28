@@ -20,7 +20,7 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/intagram.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
 
 <br />
 
@@ -43,18 +43,18 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/sahilrajiv/ChES/pull/3) in [sahilrajiv/ChES](https://github.com/sahilrajiv/ChES)
+<!-- 1. 💪 Opened PR [#3](https://github.com/sahilrajiv/ChES/pull/3) in [sahilrajiv/ChES](https://github.com/sahilrajiv/ChES)
 2. ❌ Closed PR [#2](https://github.com/sahilrajiv/ChES/pull/2) in [sahilrajiv/ChES](https://github.com/sahilrajiv/ChES)
 3. ❌ Reopened PR [#2](https://github.com/sahilrajiv/ChES/pull/2) in [sahilrajiv/ChES](https://github.com/sahilrajiv/ChES)
 4. ❌ Closed PR [#2](https://github.com/sahilrajiv/ChES/pull/2) in [sahilrajiv/ChES](https://github.com/sahilrajiv/ChES)
-5. ❌ Reopened PR [#105](https://github.com/amanmehara/programming/pull/105) in [amanmehara/programming](https://github.com/amanmehara/programming)
+5. ❌ Reopened PR [#105](https://github.com/amanmehara/programming/pull/105) in [amanmehara/programming](https://github.com/amanmehara/programming) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> --> 
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
@@ -63,7 +63,7 @@
 
 </details> -->
 
-[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=P=star-art&show_icons=true&theme=tokyonight)](https://github.com/P-star-art/github-readme-stats)
+[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=P-star-art&show_icons=true&theme=tokyonight)](https://github.com/P-star-art/github-readme-stats)
 
 [twitter]: https://twitter.com/dherange_pranav
 [instagram]: https://www.instagram.com/pranav_1001/
