@@ -2,10 +2,10 @@
 
 ---
 
-## I'm a Chemical Engineering Undergrad. currently in my Sophomore Year at National Institute of Technology,Surat
+## I'm a Chemical Engineering Undergrad. currently in my Junior Year at National Institute of Technology,Surat
 
-- 🌱 I’m Front-End developer aiming to be a Full Stack Developer 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m a Full Stack Developer specialising in MERN stack.
+- 🥅 2021 Goals: Improve my problem solving skills and competetive programming skills.
 - ⚡ Fun fact: I love watching and playing Football 
 
 ---
